@@ -1,0 +1,21 @@
+{
+  "name": "@maisonfutari/vue-youtube-iframe-api",
+  "version": "0.2.0",
+  "main": "src/main.js",
+  "license": "MIT",
+  "description": "Vue JS component wrapping a Youtube Video Player with the Youtube Iframe API",
+  "author": "darkylmnx",
+  "scripts": {
+    "build": "parcel build ./src/main.js --no-cache --global=Vytia"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkylmnx/vue-youtube-iframe-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darkylmnx/vue-youtube-iframe-api/issues"
+  },
+  "homepage": "https://github.com/darkylmnx/vue-youtube-iframe-api#readme"
+}
